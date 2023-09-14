@@ -1,0 +1,7 @@
+print ("Module File Mode 혹은 Script Mode라고 불리는 방식📃")
+print ("한")
+print ("번")
+print ("에")
+print ("읽")
+print ("음")
+print ("✨")
