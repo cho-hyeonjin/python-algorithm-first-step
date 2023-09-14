@@ -22,7 +22,7 @@
   <img src="https://brandslogos.com/wp-content/uploads/images/java-logo-1.png" width="8%" align="center" />
 </p>
 
-인터프리터 : 말 한마디마다 순간기억 → 실시간으로 번역해줌
+인터프리터 : 말 한마디마다 순간기억 → 실시간으로 번역해줌. 인간친화적 👩🏻‍💻❤️
 
 <p align="center">
   <img src="https://github.com/cho-hyeonjin/python-algorithm-first-step/assets/78816754/dc33dba9-a8df-4bec-8653-e9c11868a743" width="40%" align="center" />
@@ -54,11 +54,29 @@
   &nbsp;
   &nbsp;
   &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
 </p>
 
-컴파일러 : 말 끝날때까지 적어두고 하고 말 끝나면 한 번에 번역해줌
+컴파일러 : 말 끝날때까지 적어두고 하고 말 끝나면 한 번에 번역해줌. 기계친화적 🤖🩶
 
-Python shell = interpreter, Python shell 이 명령어 번역하는 방식 = interprete
+<br/>
+
+파이썬 쉘 = interpreter
+
+파이썬 쉘이 명령어 번역하는 방식 = interprete
 
 ## How to use Python?
 
