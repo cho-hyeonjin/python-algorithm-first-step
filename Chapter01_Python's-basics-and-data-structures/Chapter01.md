@@ -72,8 +72,6 @@ Python shell = interpreter, Python shell 이 명령어 번역하는 방식 = int
 
   <img src="https://github.com/cho-hyeonjin/python-algorithm-first-step/assets/78816754/12602fbd-11cb-4c91-bd36-68b6da6e0ed6">
 
-> &nbsp;
->
 > 1.  터미널에서 ' `python3` ' 엔터
 >
 > 2.  ' `>>>` ' : Interactive shell이 실행됨. 대화모드 들어온 것임.
@@ -83,8 +81,14 @@ Python shell = interpreter, Python shell 이 명령어 번역하는 방식 = int
 > 4.  결과 나옴
 >
 > 5.  ' `exit()` ' 또는 ' `quit()` ' : interactive shell 나오기, 대화모드 종료
->
-> &nbsp;
+
+이렇게 자세히 적을 필요도 없음.
+
+1+1을 알고 싶으면
+
+python3 엔터 → 1+1 엔터 → exit() 엔터
+
+너무 쉬워서 당황스러울 지경
 
 ### 2. Module file Mode ( Script file Mode )
 
@@ -94,18 +98,16 @@ Python shell = interpreter, Python shell 이 명령어 번역하는 방식 = int
 
 node 파일 실행하는거랑 비스무리 한 듯
 
-> &nbsp;
->
 > 1.  파이썬 문법으로 코드 작성 후 ' `파일명.py` ' 로 저장
 >
 > 2.  해당 파일 저장된 위치에서 ' `python3 파일명.py` ' : 파일명.py 실행됨.
->
-> &nbsp;
 
 ### 주석은 '#'
 
 ```python
+  # scriptMode.py 실행해서 확인해보셈
 
-  # 이것은 Python 주석입니다.
+print ("주석 다는 법은 # 주석주석 쏼랴쏼라")
+# print "이것은 Python 주석입니다. (난 안보일껄?👻)"
 
 ```
